@@ -11,7 +11,6 @@
 int main(int argc, const char * argv[])
 {
 
-    std::cout << "blah";
     
     // insert code here...
     std::cout << "Hello, World!\n";
